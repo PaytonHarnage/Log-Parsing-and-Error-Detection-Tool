@@ -1,5 +1,3 @@
-# log_parser.py
-
 import re
 
 def read_log_file(file_path):
